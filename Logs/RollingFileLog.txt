@@ -1,0 +1,1 @@
+10:45:42,392 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
