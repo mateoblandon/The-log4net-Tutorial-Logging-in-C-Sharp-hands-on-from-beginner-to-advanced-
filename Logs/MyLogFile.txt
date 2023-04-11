@@ -1,0 +1,4 @@
+10:32:41,710 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+10:34:06,379 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+10:44:43,923 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+10:45:42,392 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
