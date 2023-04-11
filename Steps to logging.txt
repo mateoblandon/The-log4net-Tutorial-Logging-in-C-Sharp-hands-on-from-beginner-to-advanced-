@@ -1,0 +1,4 @@
+1. Go to reference, Manage NuGet Packages, search for Log4net NuGet Package, install it.
+2. App.config file
+
+Con impulso de pensamiento se crean las cosas que no existen.
