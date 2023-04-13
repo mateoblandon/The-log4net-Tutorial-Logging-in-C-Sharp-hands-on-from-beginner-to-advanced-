@@ -1,4 +1,33 @@
 1. Go to reference, Manage NuGet Packages, search for Log4net NuGet Package, install it.
-2. App.config file
 
+2. App.config file:
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net"/>
+  </configSections>
+  <log4net>
+    <appender name="ConsoleAppender" type="log4net.Appender.ConsoleAppender">
+      <layout type="log4net.Layout.PatternLayout">
+        <conversionPattern value="%date{ABSOLUTE} [%thread] %level - %message%newline%exception"></conversionPattern>
+      </layout>
+    </appender>
+    <root>
+      <level value="DEBUG"></level>
+      <appender-ref ref="ConsoleAppender"></appender-ref>
+    </root>
+  </log4net>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6" />
+    </startup>
+</configuration>
+
+3. Add the next line outside the namespace of your application:
+[assembly: log4net.Config.XmlConfigurator(Watch =true)]
+
+
+4. Create a log reference in the class program and outside static void Main:
+private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);}
+
+5. log something
 Con impulso de pensamiento se crean las cosas que no existen.

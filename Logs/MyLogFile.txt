@@ -2,3 +2,17 @@
 10:34:06,379 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
 10:44:43,923 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
 10:45:42,392 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:17:39,772 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:21:37,481 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:32:29,912 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:35:37,060 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:47:27,226 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+15:52:20,249 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+18:00:20,831 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+18:01:50,149 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+20:10:30,970 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+20:18:11,603 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+20:19:12,279 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+22:41:01,361 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+22:50:47,769 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+22:29:11,614 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
