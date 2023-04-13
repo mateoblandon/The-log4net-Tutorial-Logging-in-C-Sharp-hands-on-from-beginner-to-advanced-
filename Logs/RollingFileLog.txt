@@ -13,3 +13,110 @@
 22:41:01,361 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
 22:50:47,769 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
 22:29:11,614 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+23:04:03,984 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message
+23:05:44,207 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - This is my error message, this is my new error
+23:26:21,944 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+23:26:22,044 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+23:26:22,051 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+23:26:22,074 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+23:26:22,082 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+23:28:37,330 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+23:28:37,467 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+23:28:37,471 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+23:28:37,503 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+23:28:37,511 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+08:52:18,260 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+08:52:18,386 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+08:52:18,387 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+08:52:18,407 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+08:52:18,415 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+08:53:15,381 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+08:53:15,449 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+08:53:15,452 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+08:53:15,475 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+08:53:15,483 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+08:55:11,993 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+08:55:12,107 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+08:55:12,112 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+08:55:12,133 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+08:55:12,144 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+08:55:53,510 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+08:55:53,570 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+08:55:53,573 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+08:55:53,586 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+08:55:53,591 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+08:56:07,793 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+08:56:07,841 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+08:56:07,842 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+08:56:07,853 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+08:56:07,860 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:07:49,409 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:07:49,503 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:07:49,508 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:07:49,549 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:07:49,561 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:11:30,812 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:11:30,848 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:11:30,850 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:11:30,859 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:11:30,863 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:16:29,861 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:16:29,906 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:16:29,909 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:16:29,925 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:16:29,930 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:17:58,317 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:17:58,355 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:17:58,357 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:17:58,375 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:17:58,388 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:21:00,741 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:21:00,792 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:21:00,793 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:21:00,810 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:21:00,816 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:37:00,546 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:37:00,627 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:37:00,653 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:37:00,704 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:37:00,715 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:38:24,371 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:38:24,458 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:38:24,460 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:38:24,486 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:38:24,497 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
+09:39:19,010 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] DEBUG - Developer: tutorial was fun
+09:39:19,056 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] INFO - Maintenance: water pump turned on
+09:39:19,065 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] WARN - Maintenance: water pump is getting hot
+09:39:19,087 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] ERROR - Developer: we tried to divide by zero again
+System.DivideByZeroException: Intento de dividir por cero.
+   en ConsoleUI.Program.Main(String[] args) en C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs:línea 20
+09:39:19,096 [C:\Users\blandonm\Documents\Cursos\TimCorey\The-log4net-Tutorial-Logging-in-C-Sharp-hands-on-from-beginner-to-advanced-\Log4netTutorial\ConsoleUI\Program.cs] FATAL - Maintenance: water pump exploded
